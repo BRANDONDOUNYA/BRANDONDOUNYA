@@ -13,7 +13,7 @@ Hey! I'm **Brandon**, a cybersecurity enthusiast grinding daily through **Linux*
 I’m building a strong tech foundation while preparing for global opportunities Worldwide.
 
 My mission?  
-**Level up my skills → build a future-proof career → Living my passion → secure financial stability → support my family  .**
+**Level up my skills → build a future-proof career → living my passion → secure financial stability → support my family  .**
 
 ---
 
