@@ -1,69 +1,80 @@
-# 👋 Hey, I'm Brandon Asilatsa Dounya  
-**Aspiring Cybersecurity Engineer | Linux Practitioner | Security Lab Builder | Future Cloud & Blue Team Specialist**
+<!-- PROFILE HEADER -->
+<h1 align="center">🔥 Brandon Asilatsa Dounya 🔥</h1>
+<h3 align="center">Cybersecurity Student | Linux Explorer | Building My Security Engineering Path</h3>
 
-I’m building a strong foundation in cybersecurity through **hands-on labs**, **Linux mastery**, and **structured learning** across digital forensics, networking, and secure application development.  
-My long-term vision? Work in **America, Europe, Asia or Africa** in Security Engineering while supporting my family and building financial independence.
-
----
-
-## 🔥 What I’m Working On Right Now
-- 🐧 Strengthening Linux fundamentals (privilege escalation, file systems, permissions)  
-- 🔐 Daily cybersecurity labs — operational, methodical, documented  
-- ⚙️ Building my own **Security Engineering Labs Repository**  
-- ⛓️ Studying Security Fundamentals & Software Development (BYU Pathway Bachelor degree, online programs)  
-- 🌍 Preparing for international tech opportunities
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=03D3F8&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Engineer;Linux+%26+SysAdmin+Practitioner;Security+Engineering+Labs+Builder;Heading+towards+Germany+%26+Canada;Consistency+Compounds+Success+💙" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧰 My Skill Stack (Growing Weekly)
-### **Cybersecurity**
-- Linux security & OS hardening  
-- File permissions, processes, system analysis  
-- Basic incident analysis  
-- Networking fundamentals  
-- Secure development practices  
+## 🚀 About Me  
+Hey! I'm **Brandon**, a cybersecurity enthusiast grinding daily through **Linux**, **hands-on labs**, and **security fundamentals**.  
+I’m building a strong tech foundation while preparing for global opportunities Worldwide.
 
-### **Tools**
-- Kali Linux  
-- Git & GitHub  
-- VS Code  
-- Wireshark (beginner)  
-- VirtualBox / VMware  
+My mission?  
+**Level up my skills → secure financial stability → support my family → build a future-proof career.**
 
 ---
 
-## 📚 Current Learning Roadmap
-- **Linux Mastery** (user management, permissions, cron, services)  
-- **Cybersecurity Fundamentals** (Blue Team basics)  
-- **Networking** (TCP/IP, routing, DNS)  
-- **Python for Security**  
-- **Cloud security** (future step)  
+## 🧰 Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,vscode" />
+</p>
 
 ---
 
-## 🧪 Featured Project
-### 🔹 *Brandon’s Security Engineering Labs*  
-Hands-on exercises demonstrating real Linux & cybersecurity skills.  
-I document every lab in a professional, structured format:
+## 🧪 Featured Project: Security Engineering Labs  
+A growing collection of hands-on labs where I practice:
 
-📁 https://github.com/BRANDONDOUNYA/brandon-security-engineering-labs
+- Linux permissions & users  
+- File system analysis  
+- System monitoring  
+- Basic security operations  
+- Git proficiency  
 
----
-
-## 🌱 My Long-Term Vision
-- Land a cybersecurity or IT role worldwide  
-- Level up to Cloud Security or Security Engineering  
-- Build long-term financial stability and support my family  
-- Create opportunities for African students entering tech
+🔗 **Repo:**  
+👉 https://github.com/BRANDONDOUNYA/brandon-security-engineering-labs
 
 ---
 
-## 📫 Connect With Me
-- 📧 **bdounya01@gmail.com**  
-- 🌍 More coming soon…
+## 📚 Currently Learning  
+- Linux Administration  
+- Cybersecurity fundamentals  
+- Networking (TCP/IP, routing, DNS)  
+- Python for Security  
+- Blue Team basics  
 
 ---
 
-### 🧡 Motto  
-**“Consistency compounds. One lab a day builds a whole career.”**
+## 🏗️ Roadmap 2025-2026  
+- Complete 50+ structured Linux & security labs  
+- Move closer to Security Engineering (Blue, Cloud, SOC)  
+- Strengthen GitHub portfolio  
+- Apply for tech opportunities Worldwide  
+- Maintain consistency until it compounds 🚀  
 
+---
+
+## 🏆 GitHub Stats  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BRANDONDOUNYA&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRANDONDOUNYA&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BRANDONDOUNYA/BRANDONDOUNYA/output/snake.svg" alt="snake gif">
+</p>
+
+---
+
+## 🔗 Connect  
+📧 **bdounya01@gmail.com**  
+🌍 More socials coming soon  
+
+---
+
+<h3 align="center">✨ “One lab a day builds a whole career.” ✨</h3>
