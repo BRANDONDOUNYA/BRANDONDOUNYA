@@ -1,5 +1,5 @@
 🔥 Brandon Asilatsa Dounya 🔥  
-Software Development Student | Building Strong Engineering Foundations  
+Software Development Student | Building Strong Engineering Foundations | Future Software Engineer  
 Former Cybersecurity Learner | Future Security-Focused Engineer
 
 ---
