@@ -1,80 +1,63 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">🔥 Brandon Asilatsa Dounya 🔥</h1>
-<h3 align="center">Cybersecurity Student | Linux Explorer | Building My Security Engineering Path</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=03D3F8&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Engineer;Linux+%26+SysAdmin+Practitioner;Security+Engineering+Labs+Builder;Heading+towards+Germany+%26+Canada;Consistency+Compounds+Success+💙" alt="Typing SVG" />
-</p>
+🔥 Brandon Asilatsa Dounya 🔥  
+Software Development Student | Building Strong Engineering Foundations  
+Former Cybersecurity Learner | Future Security-Focused Engineer
 
 ---
 
-## 🚀 About Me  
-Hey! I'm **Brandon**, a cybersecurity enthusiast grinding daily through **Linux**, **hands-on labs**, and **security fundamentals**.  
-I’m building a strong tech foundation while preparing for global opportunities Worldwide.
+🚀 About Me  
 
-My mission?  
-**Level up my skills → build a future-proof career → living my passion → secure financial stability → support my family  .**
+I’m a Software Development Bachelor student at **BYU–Idaho**, currently focused on mastering programming fundamentals, problem-solving, and clean software design.
 
----
+My journey started with **cybersecurity and Linux**, which gave me a strong systems mindset.  
+Today, I’m intentionally strengthening my **software engineering core** — because great security engineers are first solid engineers.
 
-## 🧰 Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,vscode" />
-</p>
+My long-term goal is to build reliable, scalable software systems and later specialize in **security-focused engineering**.
+
+I document my progress publicly to stay accountable, improve continuously, and build a strong engineering portfolio.
 
 ---
 
-## 🧪 Featured Project: Security Engineering Labs  
-A growing collection of hands-on labs where I practice:
+🧰 Core Skills & Tools  
 
-- Linux permissions & users  
-- File system analysis  
-- System monitoring  
-- Basic security operations  
-- Git proficiency  
+- Python (fundamentals, logic, structured programs)
+- Software problem-solving & algorithms (beginner → intermediate)
+- Git & GitHub (version control, project workflow)
+- Linux fundamentals
+- Input validation, loops, conditionals, debugging
 
-🔗 **Repo:**  
+---
+
+📂 Featured Repositories  
+
+🔹 **BYU Software Development Projects**  
+Projects from my Bachelor program, focused on fundamentals and clean logic.  
+👉 https://github.com/BRANDONDOUNYA/byu-software-development/tree/main  
+
+🔹 **Security Engineering Labs (Foundations)**  
+Hands-on labs from my cybersecurity learning phase (Linux, system basics).  
 👉 https://github.com/BRANDONDOUNYA/brandon-security-engineering-labs
 
 ---
 
-## 📚 Currently Learning  
-- Linux Administration  
-- Cybersecurity fundamentals  
-- Networking (TCP/IP, routing, DNS)  
-- Python for Security  
-- Blue Team basics  
+📚 Currently Learning  
+
+- Software Development fundamentals (BYU–Idaho)
+- Python for problem-solving
+- Program structure & engineering discipline
+- GitHub portfolio best practices
 
 ---
 
-## 🏗️ Roadmap 2025-2026  
-- Complete 50+ structured Linux & security labs  
-- Move closer to Security Engineering (Blue, Cloud, SOC)  
-- Strengthen GitHub portfolio  
-- Apply for tech opportunities Worldwide  
-- Maintain consistency until it compounds 🚀  
+🛣️ Roadmap (2025–2027)
+
+- Complete Software Development Bachelor projects with strong fundamentals
+- Build a clean, consistent GitHub engineering portfolio
+- Strengthen problem-solving and software design skills
+- Re-enter cybersecurity later with a stronger engineering base
 
 ---
 
-## 🏆 GitHub Stats  
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BRANDONDOUNYA&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRANDONDOUNYA&layout=compact&theme=tokyonight" />
-</p>
+✨ “Strong fundamentals first. Specialization follows.” ✨
 
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BRANDONDOUNYA/BRANDONDOUNYA/output/snake.svg" alt="snake gif">
-</p>
-
----
-
-## 🔗 Connect  
-📧 **bdounya01@gmail.com**  
-🌍 More socials coming soon  
-
----
-
-<h3 align="center">✨ “One lab a day builds a whole career.” ✨</h3>
+📧 Contact  
+bdounya01@gmail.com
